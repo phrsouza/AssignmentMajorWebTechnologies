@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT playlist (music+)>
+<!ELEMENT music (title, artist, album, year, genre)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT artist (#PCDATA)>
+<!ELEMENT album (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>

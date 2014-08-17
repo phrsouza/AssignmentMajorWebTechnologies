@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="task1b.css"?>
+<cars xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="task1b.xsd">
+	<car>
+		<owner>Jesus</owner>
+		<reg>HOLY777</reg>
+		<currency>AUD</currency>
+		<price>50000</price>
+		<year>1960</year>
+		<model>Chevrolet Opala</model>
+	</car>
+	<car>
+		<owner>Jesus</owner>
+		<reg>HOLY778</reg>
+		<currency>AUD</currency>
+		<price>30000</price>
+		<year>2010</year>
+		<model>Mitsubishi Eclipse</model>
+	</car>
+	<car>
+		<owner>Jesus</owner>
+		<reg>HOLY779</reg>
+		<currency>AUD</currency>
+		<price>35000</price>
+		<year>2013</year>
+		<model>Mitsubishi Lancer Evolution</model>
+	</car>
+	<car>
+		<owner>God</owner>
+		<reg>HOLY995</reg>
+		<currency>USD</currency>
+		<price>27000</price>
+		<year>2012</year>
+		<model>Honda CRV</model>
+	</car>
+	<car>
+		<owner>God</owner>
+		<reg>HOLY995</reg>
+		<currency>USD</currency>
+		<price>29000</price>
+		<year>2012</year>
+		<model>Golf GTI</model>
+	</car>
+	<car>
+		<owner>Lucifer</owner>
+		<reg>WCKD666</reg>
+		<currency>BRL</currency>
+		<price>66600</price>
+		<year>1950</year>
+		<model>Simca Gordini T15s</model>
+	</car>
+	<car>
+		<owner>Lucifer</owner>
+		<reg>WCKD667</reg>
+		<currency>BRL</currency>
+		<price>22000</price>
+		<year>1950</year>
+		<model>Renault Clio</model>
+	</car>
+	<car>
+		<owner>Mammon</owner>
+		<reg>WCKD668</reg>
+		<currency>NZD</currency>
+		<price>29000</price>
+		<year>2008</year>
+		<model>Nissan Skyline</model>
+	</car>
+	<car>
+		<owner>Mammon</owner>
+		<reg>WCKD669</reg>
+		<currency>NZD</currency>
+		<price>12000</price>
+		<year>2001</year>
+		<model>Volkswagen Fox</model>
+	</car>
+	<car>
+		<owner>Mammon</owner>
+		<reg>WCKD999</reg>
+		<currency>NZD</currency>
+		<price>39000</price>
+		<year>2002</year>
+		<model>Toyota Supra</model>
+	</car>
+</cars>

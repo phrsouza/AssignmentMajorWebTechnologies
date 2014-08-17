@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+cars {
+
+	background: linear-gradient(gray, white);
+	width: 100%;
+}
+
+car {
+	display: block;
+	font-style: oblique;
+}
+
+owner {
+	color: #0000FF;
+	font-size: 15pt;
+	font-weight: bolder;
+}
+
+currency, price {
+	display:inline;
+	color: #FF00FF;
+}
+
+reg, year, model {
+	display: block;
+	color: #000000;
+	margin-left: 20pt;
+}

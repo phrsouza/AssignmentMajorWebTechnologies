@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="task1a.css"?>
+<!DOCTYPE employee SYSTEM "task1a.dtd">
+<playlist>
+	<music>
+		<title>Tears Don't Fall</title>
+		<artist>Bullet for My Valentine</artist>
+		<album>The Poison</album>
+		<year>2005</year>
+		<genre>Metalcore</genre>
+	</music>
+	<music>
+		<title>All Theses Things I Hate</title>
+		<artist>Bullet for My Valentine</artist>
+		<album>The Poison</album>
+		<year>2005</year>
+		<genre>Metalcore</genre>
+	</music>
+	<music>
+		<title>Fever</title>
+		<artist>Bullet for My Valentine</artist>
+		<album>Fever</album>
+		<year>2010</year>
+		<genre>Metalcore</genre>
+	</music>
+	<music>
+		<title>Your Betrayal</title>
+		<artist>Bullet for My Valentine</artist>
+		<album>Fever</album>
+		<year>2010</year>
+		<genre>Metalcore</genre>
+	</music>
+	<music>
+		<title>Waking the Demon</title>
+		<artist>Bullet for My Valentine</artist>
+		<album>Scream Aim Fire</album>
+		<year>2008</year>
+		<genre>Metalcore</genre>
+	</music>
+	<music>
+		<title>Eye of the Storm</title>
+		<artist>Bullet for My Valentine</artist>
+		<album>Scream Aim Fire</album>
+		<year>2008</year>
+		<genre>Metalcore</genre>
+	</music>
+	<music>
+		<title>Ten Thousand Fists</title>
+		<artist>Disturbed</artist>
+		<album>Ten Thousand Fists</album>
+		<year>2005</year>
+		<genre>Alternative Metal</genre>
+	</music>
+	<music>
+		<title>Stricken</title>
+		<artist>Disturbed</artist>
+		<album>Ten Thousand Fists</album>
+		<year>2005</year>
+		<genre>Alternative Metal</genre>
+	</music>
+	<music>
+		<title>Deify</title>
+		<artist>Disturbed</artist>
+		<album>Ten Thousand Fists</album>
+		<year>2005</year>
+		<genre>Alternative Metal</genre>
+	</music>
+	<music>
+		<title>Deceiver</title>
+		<artist>Disturbed</artist>
+		<album>Indestructible</album>
+		<year>2008</year>
+		<genre>Alternative Metal</genre>
+	</music>
+	<music>
+		<title>Divide</title>
+		<artist>Disturbed</artist>
+		<album>Indestructible</album>
+		<year>2008</year>
+		<genre>Alternative Metal</genre>
+	</music>
+</playlist>

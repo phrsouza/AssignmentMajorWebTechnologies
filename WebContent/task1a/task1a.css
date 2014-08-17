@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+playlist {
+
+	background: linear-gradient(gray, blue);
+	width: 100%;
+}
+
+music {
+	display: block;
+	font-style: oblique;
+}
+
+title {
+	color: #FF0000;
+	font-size: 15pt;
+	font-weight: bolder;
+}
+
+artist {
+	color: #0000FF;
+}
+
+artist, album, year, genre {
+	display: block;
+	color: #000000;
+	margin-left: 20pt;
+}
